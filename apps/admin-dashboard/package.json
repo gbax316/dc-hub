@@ -29,4 +29,12 @@
     "typescript": "^5.2.2",
     "vite": "^5.1.4"
   }
+  {
+    "scripts": {
+      "dev": "vite",
+      "build": "tsc && vite build",
+      "preview": "vite preview"
+    }
+  }
+  
 } 
